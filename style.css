@@ -1,0 +1,64 @@
+.text1
+{
+    font-size: 4rem;
+    font-weight: 600; 
+    padding-top: 70px;
+    text-shadow: 4px 5px 5px #999999;
+    color: white;
+}
+.text1:hover
+{
+    text-shadow: 4px -2px 4px #a5bd39;
+}
+.dropdown-menu
+{
+    max-width: 50px;
+    
+}
+.dropdown-menu .item a
+{
+    text-decoration: none;
+    color: black;
+    margin-left: 5px;
+    font-size: 15px;
+}
+.view
+{
+    color: white;
+    text-decoration: none;
+}
+.list-group-item3
+{
+    list-style: none;
+    background-color: #a6ffff;
+    color: blue;
+}
+.list-group-item2
+{
+    list-style: none;
+}
+
+.list-group-item1
+{
+   background-color: #aeffae;
+   color: #a5bd39;
+   list-style: none;
+}
+.list-group-item4
+{
+    list-style: none;
+}
+.list-group-item5
+{
+    list-style: none;
+    background-color: #ffad5b;
+    color: #b95c00;
+}
+footer h6
+{
+    color:  white;
+}
+.icon ul li 
+{
+    list-style: none;
+}
